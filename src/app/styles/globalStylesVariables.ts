@@ -1,0 +1,18 @@
+export const globalStylesVariables = {
+    white: '#fff',
+    background: '#eff1f7',
+    secondaryBackground: '#eff1f7',
+    specialBackground: '#dadfee',
+    specialAction: '#5e76c714',
+    gray: '#464b57',
+    blueGray: '#52608f',
+    bluePrimary: '#6a8cff',
+    blueSecondary: '#5e76c7',
+    darkBlue: '#080b15',
+    warning: '#c00f0f',
+    success: '#1e7d0f',
+    orange: '#fa8c00',
+    border: '#cfd4e2',
+    alertSoft: '#faecec',
+    lightGray: '#d3d3d3',
+};
