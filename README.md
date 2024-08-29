@@ -18,9 +18,9 @@ This project, **AwesomeMagicHat**, is built using a variety of modern technologi
 
 This application is developed using the **Expo Bare Workflow**, which allows for the customization of native code while still benefiting from Expo’s rich library of APIs and modules.
 
-### FCM Architecture
+### Feature-Sliced Design (FSD)
 
-The app follows the **FCM (Feature Component Module)** architecture, a scalable and modular architecture pattern. The key aspects of FCM architecture include:
+The app follows the **Feature-Sliced Design (FSD)** architecture, a scalable and modular architecture pattern. The key aspects of FSD architecture include:
 - **Feature-Based Structure**: The project is organized into feature-based modules, where each feature encapsulates its own components, styles, and logic. This modular approach enhances maintainability and reusability.
 - **Component-Driven Development**: The UI is built using reusable components, promoting a clean separation of concerns and making the app easier to scale.
 - **State Management**: Centralized using Redux Toolkit, ensuring that the state is predictable and manageable across the app.
