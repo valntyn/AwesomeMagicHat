@@ -10,7 +10,7 @@ This project, **AwesomeMagicHat**, is built using a variety of modern technologi
 - **Axios**: For making HTTP requests to external APIs.
 - **React Native Gesture Handler & Reanimated**: Enhancing gesture management and animations within the app.
 
-### Development & Testing Tools
+### Development
 - **TypeScript**: Adds static typing to JavaScript, helping to catch errors early and improve code quality.
 - **ESLint & Prettier**: Linting and formatting tools that help maintain code consistency and quality.
 
